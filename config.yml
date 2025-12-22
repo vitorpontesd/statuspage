@@ -160,19 +160,24 @@ params:
   systems:
     - name: BridgesID
       category: bridges.net.br
+      link: https://id.bridges.net.br
     - name: BridgesCloud
       category: bridges.net.br
+      link: https://cloud.bridges.net.br
     - name: BridgesTV
       category: bridges.net.br
+      link: https://tv.bridges.net.br
 #    - name: Website
 #      description: Site pPrincipal.
 #      category: Uncategorized
 #      link: https://example.com/
     - name: smpCraft Drasl
       description: Servidor de Autenticação.
+      link: https://drasl.smpcraft.xyz
       category: smpCraft X
     - name: smpCraft Panel
       category: smpCraft X
+      link: http://panel.smpcraft.xyz
     - name: Servidor Principal
       category: smpCraft X
     - name: smpBridge
