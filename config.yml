@@ -144,9 +144,8 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: bridges.net.br
-      description: Infraestrutura digital pessoal.
-      closed: true
-    - name: TheCentral
+      closed: false
+    - name: smpCraft X
       closed: true
     - name: Uncategorized
       untitled: true
@@ -159,18 +158,27 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: BridgesTV
+    - name: BridgesID
       category: bridges.net.br
     - name: BridgesCloud
+      category: bridges.net.br
+    - name: BridgesTV
       category: bridges.net.br
 #    - name: Website
 #      description: Site pPrincipal.
 #      category: Uncategorized
 #      link: https://example.com/
-    - name: smpCraft X - Servidor 1
-      description: Minecraft.
-      category: Uncategorized
-
+    - name: smpCraft Drasl
+      description: Servidor de Autenticação.
+      category: smpCraft X
+    - name: smpCraft Panel
+      category: smpCraft X
+    - name: Servidor Principal
+      category: smpCraft X
+    - name: smpBridge
+      description: Conector para o Bedrock.
+      category: smpCraft X
+    
   # What date format to use?
   #
   # Hugo formatting docs:
